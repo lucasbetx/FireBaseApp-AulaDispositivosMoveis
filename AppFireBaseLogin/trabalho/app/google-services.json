@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844864116743",
+    "firebase_url": "https://trabalho13-55fca.firebaseio.com",
+    "project_id": "trabalho13-55fca",
+    "storage_bucket": "trabalho13-55fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844864116743:android:d5d600a5bf43408f",
+        "android_client_info": {
+          "package_name": "com.lucasbezerrateixeira.trabalho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844864116743-582r3me1dkn6g5hlhpfrrgbj7kv2fuge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA38ZdtfURORgXT_erj4OaPaya1edotOTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844864116743-582r3me1dkn6g5hlhpfrrgbj7kv2fuge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
